@@ -1,1 +1,1 @@
-Projeto feito durante o período de graduação
+Exercícios feitos durante o período de graduação
